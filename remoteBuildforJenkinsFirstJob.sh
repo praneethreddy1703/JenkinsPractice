@@ -7,7 +7,6 @@ tokenName="$2"
 echo $jobName
 echo $tokenName
 
-
 if [ "$1" == "-usage" ] 
 then
 	echo "./remoteBuildforJenkinsFirstJob <jobName> <passphrase>"
